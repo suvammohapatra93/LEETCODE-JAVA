@@ -4,4 +4,4 @@ Welcome to my Daily LeetCode Solutions repository! This repository contains Java
 
 ## My LeetCode Profile
 
-Check out my **[GeeksforGeeks Profile](https://leetcode.com/u/Suvam_Mohapatra9/)** to follow my journey of problem-solving. I am committed to tackling challenges daily, improving my coding abilities, and mastering new concepts. Join me as I continue to learn and grow! 🌟
+Check out my **[LeetCode Profile](https://leetcode.com/u/Suvam_Mohapatra9/)** to follow my journey of problem-solving. I am committed to tackling challenges daily, improving my coding abilities, and mastering new concepts. Join me as I continue to learn and grow! 🌟
