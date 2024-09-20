@@ -6,4 +6,4 @@ Welcome to the **LEETCODE Daily Challenges** repository! 🎉 This repository co
 ## My LeetCode Profile
 
 You can check out my LeetCode profile to see more of my submissions and achievements:
-- - **[LeetCode Profile]((https://leetcode.com/u/Suvam_Mohapatra9/))**
+- - **[LeetCode Profile]([https://leetcode.com/u/Suvam_Mohapatra9/])**
