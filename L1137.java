@@ -24,3 +24,6 @@ public class L1137 {
         System.out.println(tribonacci(n)); // Output: 149
     }
 }
+
+//! Time Complexity = O(n)
+//! Space Complexity = O(1)
